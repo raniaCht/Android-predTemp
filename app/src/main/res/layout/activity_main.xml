@@ -312,7 +312,7 @@
 
                             <TextView
                                 android:textSize="18sp"
-                                android:text="01:00"
+                                android:text="02:00"
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
                                 android:textColor="#6f6f6f"
@@ -348,7 +348,7 @@
 
                             <TextView
                                 android:textSize="18sp"
-                                android:text="01:00"
+                                android:text="03:00"
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
                                 android:textColor="#6f6f6f"
